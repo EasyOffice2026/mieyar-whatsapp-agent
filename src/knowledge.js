@@ -51,7 +51,7 @@ Tagline: Bookkeeping · Financial Management · Advisory. Serves businesses of e
 SERVICES
 1. Accounting & Bookkeeping (monthly packages above): recording transactions, bank and delivery-platform reconciliations, payroll, monthly closing, financial statements, zakat calculation, year-end and audit support.
 2. Financial Management: financial statements, cash-flow planning, budgets, KPIs and dashboards.
-3. Business Financial Plan (one-time, above): for new projects or expansions in any industry: 3-year financial plan, feasibility study, costing and pricing, CAPEX/OPEX, break-even, P&L, cash-flow forecast, staffing budget, KPIs and dashboard.
+3. SME one-time plans (above): Startup Plan (costing, pricing, 1-year cash flow and feasibility), F&B Launch Plan for restaurants and cafés (menu costing and pricing, break-even, 2-year cash flow, sales targets and feasibility) and Expansion Plan for new projects and expansions in any industry (3-year financial plan, feasibility, CAPEX/OPEX, P&L, staffing budget, KPIs and dashboard).
 4. Industry-tailored accounting (price on request): bookkeeping and reporting adapted to the visitor's sector, e.g. stock and costing for trading/retail, delivery-platform reconciliations for F&B, insurance receivables for healthcare, project costing for contracting.
 5. Inventory stocktaking (add-on, price on request): counts, reconciliation with records and a variance report.
 6. Advisory (price on request):

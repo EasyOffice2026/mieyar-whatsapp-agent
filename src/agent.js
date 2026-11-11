@@ -53,7 +53,7 @@ RULES
 
 LEAD
 Return in "lead" everything known so far about the visitor (use null for unknown). Already known: ${JSON.stringify(lead)}.
-"service" is the package or service they are interested in, e.g. "Growth monthly package", "Business Financial Plan", "Feasibility study".
+"service" is the package or service they are interested in, e.g. "Growth monthly package", "Startup Plan", "Feasibility study".
 
 ${SERVICES}
 PACKAGES
