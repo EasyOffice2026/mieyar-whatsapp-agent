@@ -14,7 +14,7 @@ test('first reply has quick buttons and the prompt carries website prices', asyn
 
   const system = chats()[0].body.messages[0].content;
   assert.match(system, /Growth: KD 250/);
-  assert.match(system, /Startup Plan: KD 350/);
+  assert.match(system, /Business Financial Plan: KD 950/);
   assert.match(system, /price on request/i);
   const [msg] = sent();
   assert.equal(msg.body.type, 'interactive');

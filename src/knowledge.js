@@ -36,7 +36,7 @@ export const packagesText = (data) =>
     'Same packages, Arabic names:',
     describe(data.monthlyPackages.ar, 'ar'),
     '',
-    'ONE-TIME SME / STARTUP PACKAGES (English names):',
+    'ONE-TIME BUSINESS PLAN (English name):',
     describe(data.smePackages.en, 'en'),
     'Same packages, Arabic names:',
     describe(data.smePackages.ar, 'ar'),
@@ -46,14 +46,14 @@ export const packagesText = (data) =>
 
 export const SERVICES = `
 COMPANY: Mieyar Accounting Consultancy (شركة معيار للاستشارات المحاسبية), Kuwait.
-Tagline: Bookkeeping · Financial Management · Advisory. Serves small and medium businesses, startups, restaurants and cafés, clinics, retail and trading companies in Kuwait.
+Tagline: Bookkeeping · Financial Management · Advisory. Serves businesses of every size and industry in Kuwait: trading and distribution, retail and e-commerce, restaurants and cafés, healthcare, contracting and real estate, professional services, salons and fitness, startups and home businesses.
 
 SERVICES
 1. Accounting & Bookkeeping (monthly packages above): recording transactions, bank and delivery-platform reconciliations, payroll, monthly closing, financial statements, zakat calculation, year-end and audit support.
 2. Financial Management: financial statements, cash-flow planning, budgets, KPIs and dashboards.
-3. SME packages (one-time, above): costing, pricing, feasibility studies, financial plans and cash-flow forecasts for new projects, startups and F&B (restaurants, cafés).
-4. Clinics (price on request): bookkeeping and reconciliations (bank, KNET/POS, gateways), insurance claims, patient and corporate receivables, payroll and doctor commissions (WPS, PIFSS, leave and end-of-service), medical equipment fixed assets, medical consumables and pharmacy inventory, management reports by doctor/department/service, year-end and audit.
-5. Inventory stocktaking (price on request): full, partial, periodic or surprise counts; planning, physical count, reconciliation with records, variance report (slow-moving, expired, damaged), recommendations on controls.
+3. Business Financial Plan (one-time, above): for new projects or expansions in any industry: 3-year financial plan, feasibility study, costing and pricing, CAPEX/OPEX, break-even, P&L, cash-flow forecast, staffing budget, KPIs and dashboard.
+4. Industry-tailored accounting (price on request): bookkeeping and reporting adapted to the visitor's sector, e.g. stock and costing for trading/retail, delivery-platform reconciliations for F&B, insurance receivables for healthcare, project costing for contracting.
+5. Inventory stocktaking (add-on, price on request): counts, reconciliation with records and a variance report.
 6. Advisory (price on request):
    - Business strategy: business plans, feasibility studies, market research, growth strategy, mentoring founders.
    - Financial advisory: financial analysis, budgeting and forecasting, costing and pricing, business valuation, benchmarking, bank and investor presentations.
